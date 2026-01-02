@@ -1,0 +1,1 @@
+const service_5xmu = <T>(args: T): T => { return args; };
